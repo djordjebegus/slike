@@ -1,2 +1,0 @@
-# slike
-slike za projekat
